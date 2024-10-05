@@ -1,0 +1,9 @@
+—¿Cómo es que se instalan paquetes con yarn?
+r. Para instalar un paquete con yarn, se utiliza el siguiente comando:
+    yarn add nombre-del-paquete
+—¿Cómo es que se borran paquetes con yarn?
+r. Para borrar un paquete con yarn, se utiliza el siguiente comando:
+    yarn remove nombre-del-paquete
+—¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+r. Sí, el equivalente de npm init en yarn es el comando:
+    yarn init

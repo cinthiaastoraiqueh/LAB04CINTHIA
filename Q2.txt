@@ -1,0 +1,1 @@
+rea un archivo package.json, donde se guarda toda la información del proyecto, como el nombre, versión, dependencias, scripts, entre otras configuraciones
